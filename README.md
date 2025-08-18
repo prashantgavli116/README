@@ -9,9 +9,17 @@
 <h2 align="left">About me</h2>
 
 ###
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left">📚 I'm currently learning Python AI& ML<br>🎯 Goals: To become a master in AI related consept<br>🎲 Fun fact: But not have intrest in it</p>
+<p align="left">📚 I'm currently learning Python AI& ML<br>🎯 Goals: To become a master in AI related consept<br>🎲 Fun fact: But not have intrest in it
+</p>
 
+###
+###
+###
+###
+###
+###
 ###
 
 <h2 align="center">I code with</h2>
